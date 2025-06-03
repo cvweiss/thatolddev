@@ -1,9 +1,9 @@
-baseURL = "https://thatold.dev/"
-languageCode = "en-us"
-title = "That Old Dev"
-theme = "risotto"
+baseURL       = "https://thatold.dev/"
+languageCode  = "en-us"
+title         = "That Old Dev"
+theme         = "risotto"
 
 [module]
   [[module.imports]]
-    path = "https://github.com/joeroe/risotto"
+    path    = "github.com/joeroe/risotto"
     version = "v0.4.0"
