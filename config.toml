@@ -1,0 +1,4 @@
+baseURL = "https://thatold.dev/"
+languageCode = "en-us"
+title = "That Old Dev"
+theme = "risotto"
