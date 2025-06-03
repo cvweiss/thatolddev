@@ -1,5 +1,9 @@
 name: Build and Deploy That Old Dev
 
+permissions:
+  contents: write
+  pages: write
+
 on:
   push:
     branches:
