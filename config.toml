@@ -1,4 +1,4 @@
-baseURL = "https://cvweiss.github.io/thatolddev/"
+baseURL = "https://thatold.dev"
 theme = "risotto"
 title         = "That Old Dev"
 author = "Joe Roe"
