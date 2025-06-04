@@ -27,7 +27,8 @@ palette = "base16-dark"
 title = "That Old Dev"
 description = "Just a dev trying to stay caught up..."
 # unicode/emoji logo:
-logo = "🍚"
+#logo = "🍚"
+logo_image = "https://avatars.githubusercontent.com/u/739285?s=400&u=ce73244f63a19ba7b572cb321b6ead44aadca439&v=4"
 # or use an image:
 #logo_image = "images/rice.svg"
 
