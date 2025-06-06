@@ -1,10 +1,8 @@
 +++
-title = "It can be overwhelming"
+title = "Overwhelmed?"
 date  = "2025-06-05T23:00:00-04:00"
 draft = false
 +++
-
-# Overwhelmed?
 
 There is so much to learn!  In the 90's when I was first getting online, learning about newsgroups, html, and the various facets that made up our internet at the time, there was not nearly as much as there is now.
 
